@@ -1,4 +1,4 @@
-# Chapter 1 Sampling
+# Part I Sampling
 
 ## 1-1 Sampling of Analog Signal
 

@@ -1,4 +1,4 @@
-# Chapter 2 Discrete-Time Signals and Systems
+# Part II Discrete-Time Signals and Systems
 
 ## 2-1 Classification of Discrete-Time Signal and System
 
